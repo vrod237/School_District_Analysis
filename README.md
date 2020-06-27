@@ -3,15 +3,15 @@
 ## How is the district summary affected?
 
 
-### Original District Summary 
+### Original District Summary <br />
 - Average math score 79%, avgerage reading score 81.9%, % passing math 75%, % passing reading 86%, %overall passing 65%
 ![OG_DistrictSummary](https://github.com/vrod237/School_District_Analysis/blob/master/OriginalDistrictSummary.png)
 
-### Revised District Summary 
+### Revised District Summary <br />
 - Average math score 78.9%, avgerage reading score 81.9%, % passing math 74%, % passing reading 85%, %overall passing 64%
 ![Revised_District_Summary](https://github.com/vrod237/School_District_Analysis/blob/master/RevisedDistrictSummary.png)
 
-- Not much changed occurred in the district summary, changes were around +/- 1% after replacing all 9th grade scores from Thomas High School with NaN.
+- Not much change occurred in the district summary, changes were around +/- 1% after replacing all 9th grade scores from Thomas High School with NaN.
 ---
 
 ## How is the school summary affected?
@@ -25,7 +25,10 @@
 ## Recalculate the high- and low-performing schools.   
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 
-- Thomas High School is no longer a top 5(2nd best) school out of all schools, it is now ranked #8 in the district. Avg scores remained nearly the same but overall passing percentage dipped from a 90.95% overall passing rate to a 65.08% passing rate. % passing math dropped from 93.27% to 66.91%, % passing reading dropped from 97.31% to 69.66%.
+- Thomas High School is no longer a top 5(2nd best) school out of all schools, it is now ranked #8 in the district. Average scores remained nearly the same however the other scores changed, as you can see below.
+- % Passing Math 93.27% reduced to 66.91%
+- % Passing Reading 97.31% reduced to 69.66%
+- % Overall Passing 90.95% reduced to 65.08%
 
 ## How does replacing the ninth-grade scores affect the following?
 #### Math and Reading Scores by Grade 
