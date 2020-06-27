@@ -4,9 +4,9 @@ How is the district summary affected?
 
 
 Original - avg math score 79%, avg reading score 81.9%, % passing math 75%, % passing reading 86%, %overall passing 65%
-[!OG_DistrictSummary](https://github.com/vrod237/School_District_Analysis/blob/master/OriginalDistrictSummary.png)
+![OG_DistrictSummary](https://github.com/vrod237/School_District_Analysis/blob/master/OriginalDistrictSummary.png)
 Cleaned up - avg math score 78.9%, avg reading score 81.9%, % passing math 74%, % passing reading 85%, %overall passing 64%
-[!Revised_District_Summary](https://github.com/vrod237/School_District_Analysis/blob/master/RevisedDistrictSummary.png)
+![Revised_District_Summary](https://github.com/vrod237/School_District_Analysis/blob/master/RevisedDistrictSummary.png)
 
 How is the school summary affected?
 Original - 
