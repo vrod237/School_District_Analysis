@@ -32,4 +32,8 @@ Revised District Summary - avg math score 78.9%, avg reading score 81.9%, % pass
             % Passing Reading 84% reduced to 77%
             % Overall Passing 63% reduced to 56%
     ### Scores by School Size
+            Only medium sizes schools (1,000 - 2,000) were affected. Average score remained the same, 83.4% is the average math score and 83.9% is the average reading score.
+            % Passing Math 94% reduced to 88%
+            % Passing Reading 97% reduced to 91%
+            % Overall Passing 91% reduced to 85%
     ### Scores by School Type
