@@ -16,6 +16,8 @@ Revised District Summary - avg math score 78.9%, avg reading score 81.9%, % pass
 ![OG_School_Summary](https://github.com/vrod237/School_District_Analysis/blob/master/OriginalSchoolSummary.png)
 #### Revised School Summary
 ![Revised_School_Summary](https://github.com/vrod237/School_District_Analysis/blob/master/RevisedSchoolSummary.png)
+    
+    Not much changed in the average reading/math score for students from Thomas High School. However, as you can see in the images above, % Passing Math, % Passing Reading and % Overall Passing was drastically reduced.
 
 ## Recalculate the high- and low-performing schools.   
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
