@@ -39,4 +39,7 @@ Revised District Summary - avg math score 78.9%, avg reading score 81.9%, % pass
             - % Passing Reading 97% reduced to 91%
             - % Overall Passing 91% reduced to 85%
     ### Scores by School Type
-            As Thomas High School is a Charter School, District Schools were not affected in any way by replacing the 9th grade scores from Thomas High School.
+            As Thomas High School is a Charter School, District Schools were not affected in any way by replacing the 9th grade scores from Thomas High School. Average Math (83.5%) and Reading (83.9%) scores remained the same.
+            - % Passing Math 94% was reduced to 90%
+            - % Passing Reading 97% was reduced to 93%
+            - % Overall Passing 90% was reduced to 90%
