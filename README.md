@@ -29,7 +29,7 @@
 
 ## How does replacing the ninth-grade scores affect the following?
 Math and Reading Scores by Grade 
-- All other grades remained the same except for 9th grade whose overall scores in reading and math dropped from 83.59% (Math) and 83.73% (Reading) to NaN.  
+    - All other grades remained the same except for 9th grade whose overall scores in reading and math dropped from 83.59% (Math) and 83.73% (Reading) to NaN.  
 Scores by School Spending 
 - Only numbers in the $630-644 range were affected. Average math score (78.5%) and average reading score (81.6%) remained the same, however the % passing math, % passing reading and % Overall Passing were reduced.
 - % Passing Math 73% reduced to 67%
