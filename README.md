@@ -17,8 +17,9 @@ Cleaned up -
 
 Recalculate the high- and low-performing schools.   
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
-Thomas High School is no longer a top 5(2nd best) school out of all schools
 
+Thomas High School is no longer a top 5(2nd best) school out of all schools, it is now ranked #8 in the district.
+Avg scores remained nearly the same but overall passing percentage dipped by xx points
 
 Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.
 
