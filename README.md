@@ -3,11 +3,11 @@
 ## How is the district summary affected?
 
 
-### Original District Summary <br />
+### Original District Summary
 - Average math score 79%, avgerage reading score 81.9%, % passing math 75%, % passing reading 86%, %overall passing 65%
 ![OG_DistrictSummary](https://github.com/vrod237/School_District_Analysis/blob/master/OriginalDistrictSummary.png)
 
-### Revised District Summary <br />
+### Revised District Summary
 - Average math score 78.9%, avgerage reading score 81.9%, % passing math 74%, % passing reading 85%, %overall passing 64%
 ![Revised_District_Summary](https://github.com/vrod237/School_District_Analysis/blob/master/RevisedDistrictSummary.png)
 
@@ -15,9 +15,9 @@
 ---
 
 ## How is the school summary affected?
-- Original School Summary
+### Original School Summary
 ![OG_School_Summary](https://github.com/vrod237/School_District_Analysis/blob/master/OriginalSchoolSummary.png)
-- Revised School Summary
+### Revised School Summary
 ![Revised_School_Summary](https://github.com/vrod237/School_District_Analysis/blob/master/RevisedSchoolSummary.png)
     
 - Not much changed in the average reading/math score for students from Thomas High School. However, as you can see in the images above, % Passing Math, % Passing Reading and % Overall Passing was drastically reduced.
